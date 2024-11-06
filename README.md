@@ -10,8 +10,8 @@ In the modern digital landscape, ensuring the security and confidentiality of se
 
 To use FileCoffer, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/ShivaniSuresh1/FILECOFFER-DECEPTION-DETECTION-AND-FILE-LOCKING-MECHANISM-USING-FACE-RECOGNITION-IN-WINDOWS-OS.git`
-2. Install the required dependencies- see [required libraries](https://github.com/ShivaniSuresh1/FILECOFFER-DECEPTION-DETECTION-AND-FILE-LOCKING-MECHANISM-USING-FACE-RECOGNITION-IN-WINDOWS-OS/blob/main/required_libraries.txt).
+1. Clone the repository: `git clone https://github.com/manikumarreddyu/FILE-LOCKING-MECHANISM-USING-FACE-RECOGNITION.git`
+2. Install the required dependencies- see [required libraries](https://github.com/manikumarreddyu/FILE-LOCKING-MECHANISM-USING-FACE-RECOGNITION/blob/main/required_libraries.txt).
 3. Run the python file `user_interface_new.py` .
 
 ## Contributing
